@@ -28,8 +28,11 @@ We happily offer immigration assistance and relocation support for successful hi
 
 ## Compensation and benefits
 
+???
+
 ## Interview process
 [Here](https://www.shopify.com/careers/how-we-hire) is how who we hire.
+
 
 If you’re interested in helping Shopify shape the future of commerce, **[Click here to apply](https://www.shopify.com/careers/senior-data-scientist-multiple-roles-e6a7b8).**
 

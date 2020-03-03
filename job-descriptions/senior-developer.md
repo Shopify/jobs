@@ -1,4 +1,4 @@
-![logo](career/shopify_logo_whitebg.svg)
+![logo](https://avatars1.githubusercontent.com/u/8085?s=200&v=4)
 
 # Senior Developer (Backend, Infrastructure, Security) - Toronto, Waterloo, Ottawa & Montreal
 
@@ -33,8 +33,11 @@ We happily offer immigration assistance and relocation support for successful hi
 
 ## Compensation and benefits
 
+???
+
 ## Interview process
 [Here](https://www.shopify.com/careers/how-we-hire) is how who we hire.
+
 
 If you’re interested in helping Shopify shape the future of commerce, **[Click here to apply](https://jobs.lever.co/shopify/852e7729-eac7-4388-9f95-b661563b83af/apply).**
 

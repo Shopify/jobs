@@ -1,4 +1,4 @@
-![logo](career/shopify_logo_whitebg.svg)
+![logo](https://avatars1.githubusercontent.com/u/8085?s=200&v=4)
 
 # Senior Mobile Developer
 
@@ -40,6 +40,7 @@ We happily offer immigration assistance and relocation support for successful hi
 
 ## Interview process
 [Here](https://www.shopify.com/careers/how-we-hire) is how who we hire.
+
 
 If you’re interested in helping Shopify shape the future of commerce, **[Click here to apply](https://jobs.lever.co/shopify/990ef018-0260-43fe-a410-fb1d8af27fcb/apply).**
 
