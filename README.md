@@ -8,12 +8,14 @@
 
 We’re looking for passionate problem solvers. What are you looking for?
 
-- [Senior Developer](job-descriptions/senior-developer.md)
+- [Senior Developer (Backend, Infrastructure, Security)](job-descriptions/senior-developer.md)
+- [Senior Mobile Developer](job-descriptions/senior-mobile-developer.md)
+- [Data Developer](job-descriptions/data-developer.md)
 - [Senior Data Scientist](job-descriptions/senior-data-scientist.md)
 <!-- add any relevant job -->
 
 
-Apply by following the directions in the job description. Have questions about our hiring process? Email us at 
+Apply by following the directions in the job description. Have questions about how we hire? [Click here](https://www.shopify.com/careers/how-we-hire) 
 
 ## Our team
 

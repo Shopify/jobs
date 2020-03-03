@@ -1,6 +1,6 @@
 ![logo](https://avatars1.githubusercontent.com/u/8085?s=200&v=4)
 
-# Senior Data Scientist
+# Data Developer
 
 ## About us
 
@@ -9,16 +9,10 @@ At Shopify, we empower 1,000,000 entrepreneurs all over the world. We're looking
 At Shopify, we recognize that after our people, our most important asset is our data. With over 10+ years of aggregate ecommerce data, we are driven by the potential insights that our data can provide. Our 1,000,000 merchants process over $72 billion in gross merchant volume through our platform, and depend on us to deliver insights that enable them to grow their business. The Data Science & Engineering team acts as the impact multiplier for Shopify’s product teams, putting over 11 petabytes of data to work to make our merchants more successful.  From delivering merchandising insights, to optimizing shipping and processing rates, to reducing credit card fraud, to ad campaign recommendations - our Data Scientists deliver solutions from pipeline to platform via an array of open source tools.   
 
 ## You’ll need to have:
-- Understanding of dimensional modelling concepts and database design/architecture or experience with feature engineering both at model build and in production
-- Experience with statistical methods like regression, GLMs, clustering, experiment design, including sampling and multi-armed bandit approaches, shipping productionized machine learning systems at scale and other predictor or classifier models
-- Extensive experience using Python including a strong grasp of object oriented programming (OOP) fundamentals
-- Extensive experience analyzing data using SQL
-- Exposure to Tableau, QlikView, Mode, Matplotlib, Jupyter, or similar data visualization tools
+- 
 
 ## It’d be nice if you had:
-- Strong background in machine learning including experience implementing models at scale (from Random Forest and GBMs to RNN/CNNs)
-- Knowledge of digital marketing and traditional media data and metrics
-- Previous experience using Spark (esp. via Python or Scala)
+- 
 
 ## Location
 
