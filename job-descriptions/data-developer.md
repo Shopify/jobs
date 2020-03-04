@@ -4,15 +4,22 @@
 
 ## About us
 
-At Shopify, we empower 1,000,000 entrepreneurs all over the world. We're looking for hard-working, passionate people to help us make commerce better.  For over 10 years we have been super driven when it comes to using data insights to help drive our product direction and make things better for our merchants. 
-
-At Shopify, we recognize that after our people, our most important asset is our data. With over 10+ years of aggregate ecommerce data, we are driven by the potential insights that our data can provide. Our 1,000,000 merchants process over $72 billion in gross merchant volume through our platform, and depend on us to deliver insights that enable them to grow their business. The Data Science & Engineering team acts as the impact multiplier for Shopify’s product teams, putting over 11 petabytes of data to work to make our merchants more successful.  From delivering merchandising insights, to optimizing shipping and processing rates, to reducing credit card fraud, to ad campaign recommendations - our Data Scientists deliver solutions from pipeline to platform via an array of open source tools.   
+Shopify's data developers build next-generation technologies that change how our teams, merchants, partners, and buyers connect, explore, and interact with information and one another. Our products need to handle information at scale for over a million merchants, and extend well beyond the web.
+ 
+This is an amazing place to learn. We operate at virtually all levels of the stack, designing tools and frameworks while working closely with teammates and stakeholders to solve complex problems. Apply now to join one of our many teams hiring: data distribution, data acquisition, data modelling, storage and query technologies, and machine learning platform. 
 
 ## You’ll need to have:
-- 
+- Previous software development experience - software design patterns, code review, testing, etc.
+- Database experience 
+- Experience with building and maintaining distributed systems and knowledge of the associated patterns, concerns, and tradeoffs
+- Demonstrated ability to work in multiple languages and platforms
+
 
 ## It’d be nice if you had:
-- 
+- Python, Spark, Scala, Go, or Java
+- Cloud Computing (Google Cloud, AWS, Azure)
+- Optimized storage strategies such as columnar file formats, partitioning, bucketing, and bloom filters
+
 
 ## Location
 
