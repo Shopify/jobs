@@ -37,7 +37,7 @@ We happily offer immigration assistance and relocation support for successful hi
 [Here](https://www.shopify.com/careers/how-we-hire) is how who we hire.
 
 
-If you’re interested in helping Shopify shape the future of commerce, **[Click here to apply](https://www.shopify.com/careers/senior-data-scientist-multiple-roles-e6a7b8).**
+If you’re interested in helping Shopify shape the future of commerce, **[Click here to apply](https://jobs.lever.co/shopify/48d8e06c-a43f-431f-a1b9-eff746e1723a/apply).**
 
 
 At Shopify, we are committed to building and fostering an environment where our employees feel included, valued, and heard. Our belief is that a strong commitment to diversity and inclusion enables us to truly make commerce better for everyone. We strongly encourage applications from Indigenous people, racialized people, people with disabilities, people from gender and sexually diverse communities and/or people with intersectional identities.
