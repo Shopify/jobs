@@ -19,7 +19,7 @@ Apply by following the directions in the job description. Have questions about h
 
 ## Our team
 
-???
+Shopify always seeks the curious, the resourceful, the creative, and the humble. We’re looking for passionate people across R&D to build vitally needed products now. We work with a fast and resilient [tech](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack?_pos=1&_sid=9958af46a&_ss=r) stack and some of the [best developer tooling](https://engineering.shopify.com/blogs/engineering/successfully-merging-work-1000-developers) so our teams can move quickly.
 
 ## Our work
 
@@ -27,4 +27,4 @@ As a team that greatly benefits from open-source software, [these](http://shopif
 
 ## Life at Shopify
 
-Our [culture](https://www.shopify.com/careers/culture).
+A great culture is the product of great people, strong values, and diversity.

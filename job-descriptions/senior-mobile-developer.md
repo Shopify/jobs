@@ -3,7 +3,6 @@
 # Senior Mobile Developer
 
 ## About us
- 
 Shopify is on a mission to scale our platform while simultaneously improving our shared developer experience. With the growth of mobile commerce, Shopify has been busy pushing boundaries as we craft the best overall mobile experience for our merchants and their customers.
  
 We are looking for iOS, Android and React Native developers excited to grow and scale our mobile offerings. To do this, we need the help of dedicated, methodical and versatile developers - that could be you! 
@@ -20,7 +19,6 @@ To learn more about Shopify's mobile engineering teams, check out our [blog](htt
 - For Android roles: Kotlin, Android Studio and Android Architecture components and MVVM
 - For React Native roles: React, React Native, Javascript (TypeScript is a plus), Android and iOS UI patterns and familiarity with native build tools, like XCode and Android Studio
 
-
  
 ## It’d be great if you have:
 - A mindset for long-term solutions
@@ -28,15 +26,12 @@ To learn more about Shopify's mobile engineering teams, check out our [blog](htt
 - A history of contributing to our community through code, documentation, mentoring, teaching, speaking, or organizing
 - A passion for helping growing development teams and making others better
  
+ 
 ## Location
-
 Our roles are curently open across all our Canadian offices 🇨🇦(Ottawa, Montreal, Toronto and Waterloo) and does require relocation. We know this may not be something you have yet considered. The stability & clear future prospects that Canada can offer may just be exactly what you’ve been looking for!
 
 We happily offer immigration assistance and relocation support for successful hires and their families. There is a clear path to Canadian permanent residency when you work with us and the visa in many cases also allows for a work permit for spouses. We’ve moved hundreds of amazing people and their loved ones to Canada from around the world and we’re experts in making the process as simple and pain-free for you as possible. Don’t just take my word for it, hear from some of the team [here!](https://www.linkedin.com/feed/update/urn:li:activity:6605116004030914560/).
 
-## Compensation and benefits
-
-???
 
 ## Interview process
 [Here](https://www.shopify.com/careers/how-we-hire) is how who we hire.
