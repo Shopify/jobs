@@ -27,7 +27,7 @@ We’re growing quickly, so there are plenty of opportunities to learn and grow 
  
 ## Location
 
-Our role are curently open across all our Canadian offices 🇨🇦(Ottawa, Montreal, Toronto and Waterloo) and does require relocation. We know this may not be something you have yet considered. The stability & clear future prospects that Canada can offer may just be exactly what you’ve been looking for!
+Our roles are curently open across all our Canadian offices 🇨🇦(Ottawa, Montreal, Toronto and Waterloo) and does require relocation. We know this may not be something you have yet considered. The stability & clear future prospects that Canada can offer may just be exactly what you’ve been looking for!
 
 We happily offer immigration assistance and relocation support for successful hires and their families. There is a clear path to Canadian permanent residency when you work with us and the visa in many cases also allows for a work permit for spouses. We’ve moved hundreds of amazing people and their loved ones to Canada from around the world and we’re experts in making the process as simple and pain-free for you as possible. Don’t just take my word for it, hear from some of the team [here!](https://www.linkedin.com/feed/update/urn:li:activity:6605116004030914560/).
 
@@ -39,7 +39,7 @@ We happily offer immigration assistance and relocation support for successful hi
 [Here](https://www.shopify.com/careers/how-we-hire) is how who we hire.
 
 
-If you’re interested in helping Shopify shape the future of commerce, **[Click here to apply](https://jobs.lever.co/shopify/852e7729-eac7-4388-9f95-b661563b83af/apply).**
+If you’re interested in helping Shopify shape the future of commerce, **[Click here to apply](https://jobs.lever.co/shopify/01239f20-2a0b-4614-a618-7bf3aff75af5/apply).**
 
 
 At Shopify, we are committed to building and fostering an environment where our employees feel included, valued, and heard. Our belief is that a strong commitment to diversity and inclusion enables us to truly make commerce better for everyone. We strongly encourage applications from Indigenous people, racialized people, people with disabilities, people from gender and sexually diverse communities and/or people with intersectional identities.

@@ -10,7 +10,7 @@ We’re looking for passionate problem solvers. What are you looking for?
 
 - [Senior Developer (Backend, Infrastructure, Security)](job-descriptions/senior-developer.md)
 - [Senior Mobile Developer](job-descriptions/senior-mobile-developer.md)
-- [Data Developer](job-descriptions/data-developer.md)
+- [Data Developer](job-descriptions/software-developer-data-platform.md)
 - [Senior Data Scientist](job-descriptions/senior-data-scientist.md)
 <!-- add any relevant job -->
 
