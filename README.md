@@ -4,6 +4,10 @@
 
  At Shopify, we empower entrepreneurs all over the world. We're looking for hard-working <!-- is "hard working good? Taken from open source page -->, passionate people to help us make commerce better. Join us building the platform powering over 1 million merchants as they start, run, and scale their business worldwide. Please visit our [Engineering Blog](https://engineering.shopify.com/) to learn more about what we're building, and why it matters. 
 
+## How we're responding to COVID-19
+
+Shopify continues to hire, and we've adjusted our recruitment process to accommodate you and those around you. Feel free to [read more](https://www.shopify.com/careers/covid19) about how we're responding and why our teams are more resolved towards Shopify's mission than ever before. 
+
 ## Open positions
 
 We’re looking for passionate problem solvers. What are you looking for?
