@@ -2,7 +2,7 @@
 
 # Careers
 
- At Shopify, we empower entrepreneurs all over the world. We're looking for hard-working <!-- is "hard working good? Taken from open source page -->, passionate people to help us make commerce better. Join us building the platform powering over 1 million merchants as they start, run, and scale their business worldwide. Please visit our [Engineering Blog](https://engineering.shopify.com/) to learn more about what we're building, and why it matters. 
+ At Shopify, we empower entrepreneurs all over the world. We're looking for hard-working, passionate people to help us make commerce better. Join us building the platform powering over 1 million merchants as they start, run, and scale their business worldwide. Please visit our [Engineering Blog](https://engineering.shopify.com/) to learn more about what we're building, and why it matters. 
 
 ## How we're responding to COVID-19
 
